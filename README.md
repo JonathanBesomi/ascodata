@@ -9,6 +9,7 @@
 ![asco family](images/asco-family.png)
 
 #### P**ascol**isti - Chi ha partecipato al maggior numero di eventi di c.o?
+
 | Pos | Nome                  |  Partecipazione |
 | :-: | :-:                   | :-:             |
 | 🥇  | Silvia Zemp           | 264             |
@@ -17,6 +18,7 @@
 
 
 #### ASCOMolaMia - Chi ha corso più c.o di tutti? 🏃🏃
+
 | Pos |        Nome           |  Tempo                   |
 | :-: | :-:                   | :-:                      |
 | 1.  | Stefano Brambilla     | 10 giorni, 8 ore e 43 min|
@@ -24,6 +26,7 @@
 | 3.  | Silvia Zemp   | 8 giorni, 8 ore e 26 min         |
 
 #### p**ASCO**loni - pascolata media per gara 🐢🍄🐢
+
 | Pos |        Nome           |  Tempo          |
 | :-: | :-:                  | :-:              |
 | 1.  | Maja Toscanelli      |     18:28        |
@@ -31,11 +34,13 @@
 | 3.  | Gaia Caruso          |     14:22        |
 | 4.  | Luca Dolfi           |     13:40        |
 | 5.  | Thomas Di Mauro      |     13:01        |
+
 > metrica: il concorrente deve aver partecipato ad almeno 10 gare.
 Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, definisci 'pascolata' come la differenza tra il tempo effettivo del concorrente e il tempo medio.
       Somma assieme tutte le pascolate e dividi in base al numero di gare.
 
 #### AscoHero - Chi è il vero eroe? Chi detiene il record di chilometri percorsi??
+
 | Pos |        Nome           |  Lunghezza      |
 | :-: | :-:                   | :-:             |
 | 🥇  | Michele Ren           | 1340 km         |
@@ -43,6 +48,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 🥉  | Stefano Brambilla     |     1206 km     |
 
 #### AscoIron - chi scala le montagne invece di fare c.o?
+
 | Pos |        Nome        |  Dislivello 🚀  |
 | :-: | :-:                | :-:          |
 | 1.  | Stefano Castelli   | 55'015 m     |
@@ -51,6 +57,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 
 
 #### Tempo di gara più lungo? 👟👟
+
 | Pos |        Nome           |  Tempo    | Evento                |
 | :-: | :-:                   | :-:       | :-:                       |
 | 🥇  | Barbara Giuganino     | 02:45:21  | 2. Nat, 2009          |
@@ -60,7 +67,8 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 
 
 #### AscoVeriCampioni - Miglior media del rango da **sempre** 🏆
-| Pos | Nome                  |  Media         |
+
+| Pos | Nome                  |  Media    |
 | :-: | :-:                   | :-:       |
 | 1.  | Mitz                  | 3.7       |
 | 2.  | Manu                  | 4.6       |
@@ -73,6 +81,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 
 
 #### Asco Pigri - Chi non finisce mai le gare? 🤕
+
 | Pos | Nome                  |  Partecipazione  | Non classificato | %       |
 | :-: | :-:                   | :-:              |                  |         |
 | 1.  | Simone Cattaneo       | 64               | 13               |  20.3%  |
@@ -82,6 +91,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 
 
 #### Asco Eroi - Chi finisce sempre le gare? 🏆🏆
+
 | Pos | Nome                  |  Partecipazione  | Non classificato | %       |
 | :-: | :-:                   | :-:              |                  |         |
 | 🥇  | Peter Schrämmli       | 166              | 1                |  0.60%  |
@@ -93,6 +103,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 ## Risultati per il **2018**
 
 #### Pascolisti 2018 - Partecipazione gare
+
 | Pos | Nome                              |  Partecipazione |
 | :-: | :-:                               | :-             |
 | 1.  | Elia Ren                          | 27             |
@@ -100,6 +111,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 3.  | Ian Bianchi & Sofia Chiodoni      | 21             |
 
 #### AscoHero 2018 - chilometri totali!?
+
 | Pos | Nome                  |  Chilometri       |
 | :-: | :-:                   | :-:               |
 | 1.  | Manu                  | 137 km            |
@@ -107,6 +119,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 3.  | Elia Ren              | 106 km            |
 
 #### AscoIron 2018 - Dislivello totale 🚀
+
 | Pos |        Nome           |  Dislivello   |
 | :-: | :-:                   | :-:           |
 | 🥇  | Manu                  | 5605m         |
@@ -114,6 +127,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 🥉  | Tommy Besomi          | 4090m         |
 
 #### Mola mia 2018 - Tempo di gara totale 👍🏻
+
 | Pos |        Nome           |  Tempo                      |
 | :-: | :-:                   | :-:                         |
 | 1.  | Michi Bianchi         | 1 giorno, 23 ore e 42 min   |
@@ -123,11 +137,10 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 #### AscoVeriCampioni 2018 - Miglior media del rango 🏆
 
 | Pos | Nome            |           |
-|--|--|--|
+| :-: | :-:             | :-:       |
 | 1.  | Gigi            | 3.8       |
 | 2.  | Michi Ren       | 4.4       |
 | 3.  | Elia Ren        | 5         |
-
 > metrica: media dei ranghi di chi ha percorso più di 5 gare nel 2018.
 
 
@@ -141,12 +154,3 @@ Se sei interessato a sapere di più non esitare a contattarmi. Ho preferito (per
 
 ### Disclaimer
 Sebbene ho fatto tutto il possibile per ottenere dati significativi, i risultati della analisi devono essere presi con spirito scherzoso e sportivo. Grazie per la comprensione! 😉
-
-
-# TEST
-
-| Priority apples | Second priority | Third priority |
-|:-:|:-:|:-:|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
