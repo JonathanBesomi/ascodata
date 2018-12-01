@@ -138,4 +138,13 @@ Se sei interessato a sapere di più non esitare a contattarmi. Ho preferito (per
 
 
 ### Disclaimer
-Sebbene ho fatto tutto il possibile per ottenere dati significativi, il risultati della analisi deve essere preso con spirito scherzoso e sportivo. Grazie per la comprensione! 😉
+Sebbene ho fatto tutto il possibile per ottenere dati significativi, i risultati della analisi devono essere presi con spirito scherzoso e sportivo. Grazie per la comprensione! 😉
+
+
+# TEST
+
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
