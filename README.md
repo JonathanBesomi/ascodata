@@ -122,7 +122,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 
 #### AscoVeriCampioni 2018 - Miglior media del rango 🏆
 | Pos | Nome            |           |
-|   - | -               | -         |
+|--|--|--|
 | 1.  | Gigi            | 3.8       |
 | 2.  | Michi Ren       | 4.4       |
 | 3.  | Elia Ren        | 5         |
@@ -144,7 +144,7 @@ Sebbene ho fatto tutto il possibile per ottenere dati significativi, i risultati
 # TEST
 
 | Priority apples | Second priority | Third priority |
-|-------|--------|---------|
+|--------|--------|---------|
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
