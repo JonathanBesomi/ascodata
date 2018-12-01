@@ -22,7 +22,7 @@
 | Pos |        Nome           |  Tempo                   |
 | :-: | :-:                   | :-:                      |
 | 1.  | Stefano Brambilla     | 10 giorni, 8 ore e 43 min|
-| 2.  | Toncsi Kocsis         | 8 days, 10 ore e 40 min  |
+| 2.  | Toncsi Kocsis         | 8 giorni, 10 ore e 40 min  |
 | 3.  | Silvia Zemp   | 8 giorni, 8 ore e 26 min         |
 
 #### p**ASCO**loni - pascolata media per gara 🐢🍄🐢
@@ -77,6 +77,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 5.  | Benedetto Castelli    | 6.1       |
 | 6.  | Aline Ren             | 6.2       |
 | 7.  | Diva Caruso           | 6.4       |
+
 > metrica: media dei ranghi di chi ha corso più di 50 gare.
 
 
@@ -87,6 +88,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 1.  | Simone Cattaneo       | 64               | 13               |  20.3%  |
 | 2.  | Carlo Guglielmini     | 58               | 11               |  18.9%  |
 | 3.  | Gabriele Zanzi        | 130              | 22               |  16.9%  |
+
 > metrica: i concorrenti devono aver fatto almeno 50 gare.
 
 
@@ -97,6 +99,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 🥇  | Peter Schrämmli       | 166              | 1                |  0.60%  |
 | 🥈  | Anna Beltraminelli    | 161              | 1                |  0.62%  |
 | 🥉  | Baba                  | 123              | 1                |  0.81%  |
+
 > metrica: i concorrenti devono aver fatto almeno 100 gare.
 
 
@@ -132,7 +135,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | :-: | :-:                   | :-:                         |
 | 1.  | Michi Bianchi         | 1 giorno, 23 ore e 42 min   |
 | 2.  | Sofia Chiodoni        | 20 ore e 52 min             |
-| 3.  | Manuele Ren           | 17 ore e 52 min             |
+| 3.  | Manu                  | 17 ore e 52 min             |
 
 #### AscoVeriCampioni 2018 - Miglior media del rango 🏆
 
@@ -141,6 +144,7 @@ Per ogni intertempo maggiore di 1.25 rispetto al tempo medio della tratta, defin
 | 1.  | Gigi            | 3.8       |
 | 2.  | Michi Ren       | 4.4       |
 | 3.  | Elia Ren        | 5         |
+
 > metrica: media dei ranghi di chi ha percorso più di 5 gare nel 2018.
 
 
